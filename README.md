@@ -1,4 +1,3 @@
-# 💫 About Me:
 🎓 Final year CSE student<br>Losing sleep over bugs and loving every second of it.<br><br>💻 Into:<br>Full-stack web dev (Angular, Node, MongoDB)<br>Prompt engineering (yes, I talk to AIs more than humans)<br>Blockchain (because centralization is so last season)<br><br>🚀 Currently learning:<br>DSA (aka brain gym) & backend wizardry<br><br>🧠 Ask me about:<br>Tech stuff, dumb bugs, or how I survived 100 tabs crashing Chrome<br><br>😅 Fun fact:<br>I once debugged for 6 hours... turns out I forgot a semicolon. 🙃
 
 
@@ -11,9 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=purab107&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=purab107&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=purab107&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=purab107&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=purab107&limit=5&theme=dark&combine_all_yearly_contributions=true)

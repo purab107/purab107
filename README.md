@@ -36,7 +36,6 @@ I once debugged for 6 hours... turns out I forgot a semicolon. 🙃
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=purab107&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=purab107&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=purab107&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Built with ❤️ by Purab using GPT-4 and too much caffeine -->
